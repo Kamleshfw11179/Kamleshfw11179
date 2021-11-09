@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Web Developer with knowledge of using Mern Stack.
+I’m addicted to learning and growing every day
+Feel free to contact me.
+https://www.linkedin.com/in/kamlesh-kumar-pradhan-b06742135/
