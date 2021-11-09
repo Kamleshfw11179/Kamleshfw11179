@@ -18,8 +18,8 @@ I am a Web Developer with knowledge of using Mern Stack.
 I’m addicted to learning and growing every day and currently i am working on a diabetic app.
 Feel free to contact me.
 
-# Let's Connect At:
-:office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+### Let's Connect At:
+[LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
 
 
 
