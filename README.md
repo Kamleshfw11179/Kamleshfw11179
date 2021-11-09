@@ -19,6 +19,5 @@ I’m addicted to learning and growing every day and currently i am working on a
 Feel free to contact me.
 :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
 
-#My Stats
-[![Kamlesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamleshfw11179&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
