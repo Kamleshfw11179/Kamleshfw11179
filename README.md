@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Web Developer with knowledge of using Mern Stack.
-I’m addicted to learning and growing every day
+I’m addicted to learning and growing every day and currently i am working on a diabetic app.
 Feel free to contact me.
 https://www.linkedin.com/in/kamlesh-kumar-pradhan-b06742135/
+
+My Stats
+https://github-readme-stats.vercel.app/api?username=Kamleshfw11179&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
