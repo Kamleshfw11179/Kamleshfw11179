@@ -11,4 +11,22 @@ I am always eager to learn something new everyday.
 
 ## Languages and tools:
 
+![This is an image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![This is an image](	https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![This is an image](	https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![This is an image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![This is an image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![This is an image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![This is an image](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![This is an image](	https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![This is an image](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
+<br/>
+
+## Want to collaborate let's Connect
+<a href="https://www.linkedin.com/in/kamlesh-kumar-pradhan-b06742135/
+" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png"
+alt="IMAGE ALT TEXT HERE" width="120" height="90" /></a>
+
+## My Favourites.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshfw11179)](https://github.com/kamleshfw11179/github-readme-stats)
