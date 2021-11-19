@@ -23,7 +23,7 @@ I am always eager to learn something new everyday.
 
 <br/>
 
-## Want to collaborate let's Connect
+## let's Connect
 <a href="https://www.linkedin.com/in/kamlesh-kumar-pradhan-b06742135/
 " target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png"
 alt="IMAGE ALT TEXT HERE" width="120" height="90" /></a>
