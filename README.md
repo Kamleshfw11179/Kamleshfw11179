@@ -1,7 +1,4 @@
-![This is an image](	"https://www.vecteezy.com/free-vector/web")
-
-
-
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="600">
 
 ## Hello there :wave: I am Kamlesh.
 <br />
@@ -35,3 +32,5 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" /></a>
 
 ## My Favourites.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshfw11179)](https://github.com/kamleshfw11179/github-readme-stats)
+
+
