@@ -30,7 +30,7 @@ I am always eager to learn something new everyday.
 " target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png"
 alt="IMAGE ALT TEXT HERE" width="120" height="90" /></a>
 
-## My Favourites.
+## My Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshfw11179)](https://github.com/kamleshfw11179/github-readme-stats)
 
 
