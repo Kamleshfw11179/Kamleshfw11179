@@ -13,6 +13,7 @@ The journey so far has been really exciting, which is making more curious to cre
 <br/>
 **I am always eager to learn something new everyday.**
 
+
 ## Languages and tools:
 
 ![This is an image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
