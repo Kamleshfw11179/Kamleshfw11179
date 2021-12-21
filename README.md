@@ -32,7 +32,7 @@ The journey so far has been really exciting, which is making more curious to cre
 " target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png"
 alt="IMAGE ALT TEXT HERE" width="120" height="90" /></a>
 
-## Most Used Langauges
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshfw11179)](https://github.com/kamleshfw11179/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
