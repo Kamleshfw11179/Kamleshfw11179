@@ -33,4 +33,4 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" /></a>
 ## My Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshfw11179)](https://github.com/kamleshfw11179/github-readme-stats)
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
